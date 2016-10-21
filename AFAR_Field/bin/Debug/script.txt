@@ -1,0 +1,5 @@
+FIELD_UV 1 1 Y;
+CLROUT
+FIELD_UV 1 12 Y;
+SAVETO 12faf; 
+     

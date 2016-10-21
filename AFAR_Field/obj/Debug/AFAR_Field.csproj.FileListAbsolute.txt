@@ -1,0 +1,6 @@
+c:\users\carolina_vladislav\documents\visual studio 2015\Projects\AFAR_Field\AFAR_Field\bin\Debug\AFAR_Field.exe.config
+c:\users\carolina_vladislav\documents\visual studio 2015\Projects\AFAR_Field\AFAR_Field\bin\Debug\AFAR_Field.exe
+c:\users\carolina_vladislav\documents\visual studio 2015\Projects\AFAR_Field\AFAR_Field\bin\Debug\AFAR_Field.pdb
+c:\users\carolina_vladislav\documents\visual studio 2015\Projects\AFAR_Field\AFAR_Field\obj\Debug\AFAR_Field.csprojResolveAssemblyReference.cache
+c:\users\carolina_vladislav\documents\visual studio 2015\Projects\AFAR_Field\AFAR_Field\obj\Debug\AFAR_Field.exe
+c:\users\carolina_vladislav\documents\visual studio 2015\Projects\AFAR_Field\AFAR_Field\obj\Debug\AFAR_Field.pdb
